@@ -1,1 +1,2 @@
-# data_analysis-of-diwali-sales-
+.# data_analysis-of-diwali-sales-
+The analysis of the Diwali sales data reveals significant trends among married women aged 26-35 from specific states. Notably, those working in sectors such as IT, Healthcare, and Aviation demonstrate a strong preference for purchasing products in the Food, Clothing, and Electronics categories. This insight highlights targeted consumer behavior during the festive season, indicating that these demographics are key drivers of sales in these product categories. Understanding these patterns can help businesses tailor their marketing strategies to effectively reach this influential consumer group
